@@ -1,0 +1,11 @@
+langchain-openai
+langchain
+python-dotenv
+langchain_community
+pandas
+numpy
+langchain_core
+streamlit
+langchain-groq
+pypdf
+
