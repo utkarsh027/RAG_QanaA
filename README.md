@@ -29,4 +29,4 @@ pip install -r requirements.txt
 echo "OPENAI_API_KEY='your_openai_api_key_here'" > .env
 
 # Running the App
-python -m run app1.py
+python -m streamlit run app1.py
